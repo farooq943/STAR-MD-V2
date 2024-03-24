@@ -7,9 +7,9 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['234704535241', 'EXCEL', true], 
-  ['2348021779696', 'EXCEL', true], 
-  ['234704503541', '⚡Excel', true],
+  ['923332591943', 'EXCEL', true], 
+  ['923332591943', 'EXCEL', true], 
+  ['923332591943', '⚡Excel', true],
 
 ] //Number of owners
 
@@ -52,9 +52,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'STAR-MD-V2'
+global.botname = '𝑭𝑨𝑹𝑶𝑶𝑸_𝑯𝑨𝑪𝑲𝑬𝑹'
 global.premium = 'true'
-global.packname = 'STAR-MD' 
+global.packname = '𝑭𝑨𝑹𝑶𝑶𝑸_𝑯𝑨𝑪𝑲𝑬𝑹' 
 global.author = '@Excel' 
 global.menuvid = 'https://i.imgur.com/BPqmxsm.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
